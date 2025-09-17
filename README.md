@@ -48,8 +48,21 @@ Run JUnit tests:
 Right-click the project → Test to execute all unit tests.
 
 
+##Example Demo
+=== SecureAuthSystem Demo ===
+Type 'r' to register, 'l' to login, 'q' to quit.
+Option (r/l/q): r
+Username: Peter1
+Password: Abcde1!@
+First name: Peter
+Last name: Parker
+Cellphone (SA): 0712345678
+Registration successful.
+Option (r/l/q): l
+Username: Peter1
+Password: Abcde1!@
+Login successful.
+Option (r/l/q): q
+Goodbye.
 
-
-Run JUnit tests:
-
-Right-click the project → Test to execute all unit tests.
+Future Improve
